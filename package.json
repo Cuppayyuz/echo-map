@@ -12,6 +12,7 @@
   "dependencies": {
     "@marsidev/react-turnstile": "^1.5.3",
     "@supabase/supabase-js": "^2.108.2",
+    "@turf/turf": "^7.3.5",
     "maplibre-gl": "^5.24.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
